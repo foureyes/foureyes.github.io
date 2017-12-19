@@ -3,7 +3,6 @@ layout: default
 title: jvers.com
 ---
 
-Joe Versoza
-=====
+# Joe Versoza
 
 * [Teaching and course sites](https://cs.nyu.edu/~jversoza/)
