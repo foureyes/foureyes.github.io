@@ -3,6 +3,7 @@ layout: default
 title: jvers.com
 ---
 
-# Joe Versoza
+### joe 😐
 
-* [Teaching and course sites](https://cs.nyu.edu/~jversoza/)
+* [💻🎓](https://cs.nyu.edu/~jversoza/)
+* [📷](https://www.instagram.com/joeversoza/)
