@@ -5,5 +5,5 @@ title: jvers.com
 
 ### joe 😐
 
-* [💻🎓](https://cs.nyu.edu/~jversoza/)
-* [📷](https://www.instagram.com/joeversoza/)
+* [💻 🎓 (teaching)](https://cs.nyu.edu/~jversoza/)
+* [📷 ('gram)](https://www.instagram.com/joeversoza/)
