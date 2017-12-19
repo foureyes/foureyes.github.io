@@ -2,6 +2,7 @@
 layout: default
 title: jvers.com
 ---
+
 Joe Versoza
 =====
 
