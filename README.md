@@ -1,1 +1,1 @@
-jvers.com 
+Stub site for jvers.com.
